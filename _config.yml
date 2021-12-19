@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Jason Perlmutter"
+title                    : "Jason Perlmutter"
 title_separator          : "-"
 name                     : &name "Jason Perlmutter"
 description              : &description "Gentleman Scholar"
