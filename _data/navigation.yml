@@ -9,5 +9,5 @@ main:
   - title: "Hobby"
     url: /hobby/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Contact Me"
+    url: /contactme/
